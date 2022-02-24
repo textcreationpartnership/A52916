@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new discourse about the fire of London, and the probability of self-murther, in a letter to a friend concerning Sir Edmundbury Godfrey's death</title>
+            <author>Philopolis.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52916</idno>
+            <idno type="STC">Wing N621</idno>
+            <idno type="STC">ESTC R41046</idno>
+            <idno type="EEBO-CITATION">19603276</idno>
+            <idno type="OCLC">ocm 19603276</idno>
+            <idno type="VID">109161</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52916)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109161)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1692:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new discourse about the fire of London, and the probability of self-murther, in a letter to a friend concerning Sir Edmundbury Godfrey's death</title>
+                  <author>Philopolis.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Janeway ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: Philopolis.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Godfrey, Edmund Berry, --  Sir, 1621-1678.</term>
+               <term>Fires --  England --  London.</term>
+               <term>Murder --  England.</term>
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:109161:1"/>
+            <pb n="1" facs="tcp:109161:1"/>
+            <head>A NEW DISCOURSE ABOUT THE FIRE of LONDON, AND THE Probability of Self-Murther, IN A LETTER to a FRIEND CONCERNING Sir <hi>EDM<g ref="char:V">Ʋ</g>NDB<g ref="char:V">Ʋ</g>RY GODFREY</hi>'s Death.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SInce it's the Genius of the Age to be Sceptical and Inquiſitive, per<g ref="char:EOLhyphen"/>mit me to deal frankly with you, in giving a free Account of my retyred and deep thoughts concerning things that have created and been the buſineſs of much Diſcourſe. The firſt is relating to the Firing of <hi>London,</hi> the latter the Death of Sir <hi>Ed. G.</hi> Methinks after the Conjectures, Proof, Declaration and Narratives of others, a man may, to bring off all Partyes from ſuſpicion, find out an unoffenſive way of ſalving the Enquiries, and to better purpoſe than it hath been yet.</p>
+            <p>For inſtance: In <hi>Septemb.</hi> 66. 'tis reported by ſome, that there was a dreadful Fire in the great City you live in. Now to anger no ſort of Men, for if we (as ſome have done) impute it to the <hi>Papiſts,</hi> whoſe liquoriſh Palates might be tempted with the Delicacies and Fecundity of that place, and this whet their Appetites with an inſatiable Guſto of the Sweetneſſes that Hereticks had long enjoyed and ſurfeited on; if theſe (as it's common in the Countrey, to obtain Honey and pilfer the winged Inhabitants,) thought it expedient by Smoak and Sulphur to unhive the ſecure Inmates, then it will reflect on the Civility and obliging humour of the Popiſh party, as if perſons bent on Miſchief, and that could by no leſs light than of a general Conflagration, direct and lead men into the beaten way of the Ca<g ref="char:EOLhyphen"/>tholick Church; and how muſt this ſuſpicion excite a ſtrange Ferment in Citizens againſt modeſt and good natur'd <hi>Jeſuits,</hi> as the reputed Authors
+<pb n="2" facs="tcp:109161:2"/>of their late Calamities: Whereas we of that Religion would perſwade the World, that we only deſign good, and the Converſion of this Kingdom, to bring our miſguided Children into the warm boſom of the Mother Church, and this we can do without throwing Fire-brands at them: Tell us nothing of Committees, and Parliaments, and Chair-men, we have a good ſteady, old Gentleman, that with a Nod and Wink is more infallible and poſitive than all you can be. Or if the Say-ſo of his Holineſs will not over-ballance all the pretended Evidence of the probability that Catho<g ref="char:EOLhyphen"/>licks burnt the City, for ſatisfaction in the matter, take this following Ac<g ref="char:EOLhyphen"/>count of that general Flame and dreadful Fire.</p>
+            <p>Suppoſe that once upon a time the Citizens ſhould meet, (and you know many of them are for unlawful Conventicles) and when they foreſaw a cold Winter approach, agree and club together in a curſed Aſſociation, for the Security of their Eſtates, and Increaſe of Trade, and to advance Houſe-rents, and have the Streets made more capacious and commodious, Build<g ref="char:EOLhyphen"/>ings more uniform and ſplendid, for the ſole benefit and encouragement of decayed Maſons and Carpenters, and for their own convenience of going a Birding, and recreating themſelves in the Countrey the enſuing Winter: Why on ſuch weighty and important grounds and deep conſiderations, from proſpect of enſuing profit and pleaſure, ſhould not theſe contrive and conſpire each man to put fire to his own Houſe, buy up Gunpowder and combuſtible matter, to make the work more ſpeedy and general? Though I cannot think they durſt ever attempt this deſign; only they had alſo agreed to drink luſtily the Night before, and ſo each man being full of Liquor, having his Engine prepared and mounted, promiſed to piſs out the Fire, as far as he was inſtrumental and concerned in its kindling: And this we have proof ſufficient for, and as great as the thing will bear to produce: for who dares contradict ſo plain a demonſtration, That the Ci<g ref="char:EOLhyphen"/>tizens falling out with their old, and wooden, and paper Habitations, did not burn them by conſent, to erect better and more uniform in their pla<g ref="char:EOLhyphen"/>ces; but no further to ſalve this puzzling Enquiry, till we hear a better account from others: For although Fire is a good Servant, yet it proves an imperious and turbulent Maſter; and can there be Smoak where there is no Fire? You may conſider beſides, how could it kindle in <hi>Pudding<g ref="char:EOLhyphen"/>lane,</hi> and run with and againſt wind, and deſpiſe the help and obſtinate endeavours to quench it; out-run the Guards, nay Conſtables; had there not been ſome Conſpiracy on work, and the Devil blowing the Coals? But I cannot tell you more of this at preſent, till I find how it will obtain be<g ref="char:EOLhyphen"/>lief; and why ſhould it not, as well as other Elaborate Squibbs and Crackers, compoſed and ſtufft with as great Impertinency, and not backt with ſo high and preſumptive Probability, which to unthinking men looks as like Demonſtration as an Apple is to a Nutt? Should I have troubled you with any thing more ſtaid and ſerious, I had not paſt the Cenſure of ſome critical and pert, conceited and cenſorious Reader. 
+<hi>Farewell.</hi>
+            </p>
+            <p>BUT did Sir <hi>E. G.</hi> Kill himſelf? Yes, no queſtion on't: But <hi>when, how,</hi> and with <hi>what</hi> Numerical Weapon, this Time muſt diſcover: For we Catholicks, and men that have for ſome years uſed the Plea, will by hook or crook make out any thing, and can give Demonſtration for what we pleaſe. They are your dull, unthinking and tame Animals, that are fed by Propoſitions, Syllogiſms, and hard Terms, that deſign to Impoſe upon Mankind with that weather-beaten and unlucky word cal'd <hi>Truth:</hi> If
+<pb n="3" facs="tcp:109161:2"/>we Squires of the Quill can Caball, and get an humble Petition from our dear Friends, Knights of the Poſt, by a trick cal'd <hi>Legierdemain,</hi> two or three Cramp words, and <hi>Hocus Pocus,</hi> (a Game almoſt now forgotten in this lazy and dull Age) which our Forefathers cal'd <hi>Blind-mans-buffe,</hi> we can make a Statue move, and the Horſe winch and caper in the <hi>Stocks-Market,</hi> and the Dragon on <hi>Bow</hi> Steeple fly as ſwift as <hi>Mahomets</hi> Dove, and prove us Prophets of the rareſt invention and Edition ſince your Grandame cryed Nut-crackers and Ginger-bread. But I had almoſt amongſt my Pedigree and Intimates, as men that ſpeak much, out-run my Subject, and forgot the Novel way of Probation.</p>
+            <p>Who dares ſay, or without my Licenſe think that the Knight was Murthered, or indeed that he is dead? 'Tis true, there was a man about the 17<hi rend="sup">th</hi> of <hi>Octob.</hi> 78. within a mile of an Oak, that was for ſome dayes miſſing; and 'twas then ſaid, he was gone a Wooing; and men on that Errand may be out of the way, and forget themſelves: for Love is blind, and like a Wild-gooſe Chaſe, or a Fairy Dance; and if the wanton Boy <hi>Cupid,</hi> or the Grand Matrone of Fairy-Land ſhould ſeduce an Amorous Juſtice, and puff him on to <hi>Green-Bury-Hill,</hi> muſt three of that Name be ſuppoſed mad, to do this ill Office, and take the Odium, and Swing for the enchanting trick of that (O Injurious) buſie Gad and whimſical No<g ref="char:EOLhyphen"/>thing? I have heard theſe Night-walkers do pinch People in their Slum<g ref="char:EOLhyphen"/>bers; and to the Neat and ſpruce Houſwives, drop Money in their Shooes, and keep clean the place they delight in: And I doubt not to prove when occaſion is, that theſe waggiſh Twit-twats finding the Worſhipful ſo in<g ref="char:EOLhyphen"/>duſtrious and cleanly, might in Civility, when he run his Gloves and Stick thrô his Hands and Arm-pits, and his Sword into his Body, to pre<g ref="char:EOLhyphen"/>vent being ſuſpected, ſo clean his Shooes; and having no Money about them, (for they ſpent all their means on <hi>Charon Godfrey</hi>'s Ferry-man) drop a little Hay-ſeeds or Bents into his Shooes, and weave them into his Stockins; and ſo the Murther is out. For whoever proves the contrary, muſt take heed what he ſayes, for we Writers ſtand upon our Prerogative, which is to call any man that ſtands in our way, or is not an Inhabitant of our In<g ref="char:EOLhyphen"/>chanted Iſland, by one ugly Name or other, and then make as much ſport with him as the Noble Divertion the <hi>Morocco</hi> Embaſſador was lately enter<g ref="char:EOLhyphen"/>tained with in <hi>Southwark.</hi> If any man dares tell me, there was ſuch a thing as old <hi>Tongue</hi> and <hi>Oats</hi> privy to a Plott the <hi>Weſtminſter-men</hi> cal'd Helliſh and Damnable; we have a way to make the penitent Son call his Father Knave, and thô a man of no Great Invention, we'll call that terrible project the Creature of his doting Fancy, and give no credit to either <hi>Ti<g ref="char:EOLhyphen"/>mothy</hi> or <hi>Titus:</hi> For who knows what kind of men may uſurp thoſe Names, and obtrude thin and fine-ſpun Stories upon the <hi>Mobile?</hi> For ſhall two or three little and vicious Creatures, compell my belief of what I have the Authority and Intereſt of my Mother Church to perſwade me could never be? When did you find any but peeviſh and reſtleſs Fanaticks, credulous and thin-pated Whiggs, guilty of Plotting? Theſe, that we ſwear have no Religion but Rebellion, no Faith but Faction, may Depoſe and Murther Kings; but did ever a Loyal <hi>Roman Catholick,</hi> or your Ruffling <hi>Banditti,</hi> or men of Parts and Ingenuity, of Gallantry and Temper, that are <hi>Cap-a-pe</hi> for the Church and Government? We that have ſpent our Fortunes in his Majeſties Service, and by our Pens ſupport Church and State? When did we <hi>Royalliſts</hi> Conſpire or Aſſociate to do miſchief? No, if <hi>Godfrey</hi> is dead, he may thank himſelf. If a Gun lets fly at a man in a Coach, dares any ſay he's murthered? A man may kill or be kill'd, but why ſhould we pry into the myſterious and meritorious Contrivers? When men ſtand in the
+<pb n="4" facs="tcp:109161:3"/>way, may they not be removed without ſuch a Din and Clamour, and calling the inſtruments Murtherers? Who can prove that the Sword did not owe the perſon wearing it a Grudge; and taking him alone and at advantage, ſteal unawares into his Body? There is a man that lives ſomewhere may witneſs this: I have forgot whether it's the Vertuoſo at <hi>Salisbury,</hi> or the Anatomiſt in <hi>Cambridge,</hi> for they are both cunning and ſhrewd Artiſts: And a man of ordinary ingenuity and ſlender experience, may in three years time offer great Problems and Phoenomena's, paſt either <hi>Bedlow</hi>'s or <hi>Prance</hi>'s Solution. Or why might not the Knight have drunk Colledge or Dr. <hi>Butler</hi>'s Ale the Saturday Morning, and being walking find it grumble, (as if he had a Pope in his Belly) and for Privacy re<g ref="char:EOLhyphen"/>tire to <hi>Primroſe-hill,</hi> and laying by his Gloves and Stick, and turning the Hilt of his unlucky Sword to the Ground, being in haſte, forget himſelf, and ſit down on his Swords point, and do himſelf a miſchief? and when eaſed, he might unbutton his Doublet; (for his Coller you muſt remember was made high, and gall'd his Neck, and made it doddle this and t'other way:) Why may he not in a Bravado try whether his Sword would enter, and how far a man might without danger, and unprovok't, Kill himſelf? Is not this probable? let me dare any man to Swear the contrary.</p>
+            <p>I remember (and it's as much as I can) that in <hi>Harry</hi> the Eighths time, there were a ſort of Blades truely Loyal, and ſerviceable to the Govern<g ref="char:EOLhyphen"/>ment, that were Whiggiſhly inclined, and would perſwade (had not he underſtood Trap, and could not be impoſed upon with Baubles and Poli<g ref="char:EOLhyphen"/>tical Rattles) that the Old Gentleman at <hi>Rome</hi> (God bleſs his Holineſs) was an Enemy to his Grandeur and Supream Power: But though none of the moſt dutiful Sons, yet he found it his Intereſt to adhere to the Papal See; and though for a time ſeduced by <hi>Cromwell</hi> and Father <hi>Cranmer,</hi> yet (good man) he dyed in the Boſom of the Mother Church. Why then ſhould any politick <hi>Sir</hi> diſſwade Princes from their Duty and Submiſſion, when great <hi>Harry,</hi> who Juſtled with his <hi>Infallibility,</hi> dyed at his feet? What reaſon have Church men and zealous Fanaticks to clamour and rail ſo hotly againſt an old Man that deſigns their good, and reducing them by gentle Methods of Colluſion, and good words of Fire and Faggot, into either Obedience or Purgatory, or Heaven, all which are but ſeveral ſteps to promotion? But, Sir, being not much concerned about the Arts and Methods of Policy, I ſhall give you no further Trouble, only begg the fa<g ref="char:EOLhyphen"/>vour of being ſtill eſteemed</p>
+            <closer>
+               <signed>
+                  <hi>Your Faithful Friend,</hi> Philopolis.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed for</hi> R.Janeway <hi>in</hi> Queens-head-alley <hi>in</hi> Pater-noſter-row, <hi>1682.</hi>
+            </p>
+            <pb facs="tcp:109161:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
